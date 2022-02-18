@@ -19,7 +19,7 @@ skills=['Mean stack', 'web developer', 'fullstack', 'Mearn Stack', 'back-end', '
                     <h2>Portfolio</h2>
                     <div className="row">
                         {this.skills.map((sk, i) => {
-                            return    <div className="col-4 mb-3">
+                            return    <div className="col-md-4 mb-3">
                             <CardsClass skill={sk} index={i}/>
 
                         </div>

@@ -50,7 +50,7 @@ class SkillsClass extends React.Component {
                              If you are going to use a passage of Lorem Ipsum,</p>
 
                              <div className="row">
-                                <div className="col-6">
+                                <div className="col-md-6">
                                     <h3>My Focus</h3>
                                     <div className="w-25 bg-white break">
                                     </div>
@@ -59,7 +59,7 @@ class SkillsClass extends React.Component {
                                   
 
                                 </div>
-                                <div className="col-6 mt-4">
+                                <div className="col-md-6 mt-4">
 
                              {this.arrOfSkills.map(sk => <ProgressClassComponent skills={sk.proficiency} skillName={sk.name} key={sk.id}/>)}   
 
