@@ -1,0 +1,12 @@
+.header{
+background-image:linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.6)), url("../../public/pexels-polina-kovaleva-5827894\ \(2\).jpg");
+background-position: top;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 100vh;
+color: white;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+

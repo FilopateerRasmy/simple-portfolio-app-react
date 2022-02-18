@@ -1,0 +1,10 @@
+
+.progress-bar{
+    background-color: gray !important;
+}
+.progress{
+    height: 30px !important;
+    width: 80% !important;
+}
+
+

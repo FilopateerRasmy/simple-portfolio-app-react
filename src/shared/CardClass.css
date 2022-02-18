@@ -1,0 +1,19 @@
+.custom-card{
+width: 300px;
+height: 300px;
+background-color: rgba(128, 128, 128, 0.589);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+color: rgba(255, 255, 255, 0.514);
+box-shadow: 5px 5px 5px 5px rgba(128, 128, 128, 0.815);
+
+}
+
+
+.line{
+    height: 5px;
+    width: 90%;
+    background-color: white;
+}
